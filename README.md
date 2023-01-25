@@ -1,2 +1,0 @@
-# Odin-Recipies
-First site.
