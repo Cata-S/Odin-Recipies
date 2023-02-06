@@ -8,3 +8,7 @@ h1 {
 #title {
     background-color: red;
 }
+img {
+    height: auto;
+    width: 500px;
+}
